@@ -1,0 +1,72 @@
+{
+  "id": "3373266",
+  "name": "fang-ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-fang-",
+  "description": "方方的自定义Vue组件库。",
+  "glyphs": [
+    {
+      "icon_id": "278748",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "658025",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "15629036",
+      "name": "关闭-取消-关闭",
+      "font_class": "guanbi-quxiao-guanbi",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "630128",
+      "name": "照相机",
+      "font_class": "zhaoxiangji",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "658053",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "5387585",
+      "name": "箭头_向右两次",
+      "font_class": "jiantou_xiangyouliangci",
+      "unicode": "eb09",
+      "unicode_decimal": 60169
+    },
+    {
+      "icon_id": "11372735",
+      "name": "增加",
+      "font_class": "zengjia",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "12363187",
+      "name": "古风物件，中国风，伞，古风伞",
+      "font_class": "gufengwujianzhongguofengsangufengsan_huaban_huaban",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "18211385",
+      "name": "蓝牙",
+      "font_class": "lanya",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    }
+  ]
+}

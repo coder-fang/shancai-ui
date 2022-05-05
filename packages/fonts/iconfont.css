@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 3373266 */
+    /* Color fonts */
+    src: url('iconfont.woff2?t=1651582331997') format('woff2'), url('iconfont.woff?t=1651582331997') format('woff'), url('iconfont.ttf?t=1651582331997') format('truetype');
+}
+
+
+/* .iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+
+/* 图标 */
+
+[class*='icon-fang'] {
+    font-family: 'iconfont' !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fang-yanjing:before {
+    content: "\e6ce";
+}
+
+.icon-fang-guanbi:before {
+    content: "\e659";
+}
+
+.icon-fang-guanbi-quxiao-guanbi:before {
+    content: "\e69f";
+}
+
+.icon-fang-zhaoxiangji:before {
+    content: "\e663";
+}
+
+.icon-fang-xiangji:before {
+    content: "\e672";
+}
+
+.icon-fang-jiantou_xiangyouliangci:before {
+    content: "\eb09";
+}
+
+.icon-fang-zengjia:before {
+    content: "\e8c0";
+}
+
+.icon-fang-gufengwujianzhongguofengsangufengsan_huaban_huaban:before {
+    content: "\e624";
+}
+
+.icon-fang-lanya:before {
+    content: "\e7b2";
+}
