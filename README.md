@@ -8,7 +8,7 @@ CSDN:
     vue created demo
  
 - 安装组件库
-    npm add one-ui
+    npm add shancai-ui
  
 - 全局导入
     import ShancaiUI form 'shancai-ui'
