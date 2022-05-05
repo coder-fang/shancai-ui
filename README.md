@@ -1,4 +1,5 @@
 CSDN:
+
 账号ID：qq_45479404
 用户名：杉菜酱_
  
@@ -11,7 +12,7 @@ CSDN:
     npm add shancai-ui
  
 - 全局导入
-    import ShancaiUI form 'shancai-ui'
-    import 'shancai-ui/lib/shancai-ui.css'
+    - import ShancaiUI form 'shancai-ui'
+    - import 'shancai-ui/lib/shancai-ui.css'
  
     Vue.use(ShancaiUI)
